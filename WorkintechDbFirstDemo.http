@@ -1,0 +1,6 @@
+@WorkintechDbFirstDemo_HostAddress = http://localhost:5113
+
+GET {{WorkintechDbFirstDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
